@@ -2,7 +2,7 @@
 name: Suggest additions
 about: This template is to create a structure to the information that goes into the
   repo
-title: New additional
+title: New addition
 labels: enhancement
 assignees: Rishab2000
 
