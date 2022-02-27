@@ -7,6 +7,6 @@ The goal, for now, is to focus on the question, company and role. However, we ar
 
 Please be as detailed as possible with the information you want to contribute. Although any contributions are appreciated!
 
-To add your experience, either create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) adhering to the guidelines or [create an issue](https://github.com/Rishab2000/Design-Interview-Questions/issues) with all the revenant details.
+To add your experience, either create [an issue](https://github.com/Rishab2000/Design-Interview-Questions/issues) with all the revenant details or a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) adhering to the guidelines.
 
 A more accessible version of this information is in the works! I'm sorry if I had to make you create a Github account :'(
