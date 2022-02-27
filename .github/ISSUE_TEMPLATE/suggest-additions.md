@@ -8,11 +8,11 @@ assignees: Rishab2000
 
 ---
 
-##Name of the company:
+## Name of the company:
 
-##Role applied to:
+## Role applied to:
 
-##Number of interview rounds:
+## Number of interview rounds:
 
-##Questions:
+## Questions:
 <!-- Answers are optional -->
